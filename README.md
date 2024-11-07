@@ -139,4 +139,4 @@ A failure response for a validation error, indicating a problem with a specific 
 
 ## License
 
-This specification is MIT licensed, you can find the license file [here](./LICENSE).
+This project is licensed under the terms of the MIT license.
